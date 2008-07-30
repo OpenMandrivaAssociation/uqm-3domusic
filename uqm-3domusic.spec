@@ -1,7 +1,7 @@
 %define base_name	uqm
 %define name		%{base_name}-3domusic
 %define version		0.6.0
-%define release		%mkrel 3
+%define release		%mkrel 5
 
 Name:		%{name}
 Version:	%{version}
