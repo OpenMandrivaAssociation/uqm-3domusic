@@ -6,7 +6,7 @@ Release:	1
 Summary:	Optional 3DO music package for Ur-Quan Masters game
 License:	GPL
 Group:		Games/Strategy
-URL:		http://sc2.sourceforge.net
+URL:		https://sc2.sourceforge.net
 Source:		http://sourceforge.net/projects/sc2/files/UQM/%(echo %{version} |cut -d. -f1-2)/uqm-%{version}-3domusic.uqm
 Requires:	%{base_name}
 BuildArch:	noarch
